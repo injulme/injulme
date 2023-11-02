@@ -1,5 +1,3 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=hello%20world!&fontSize=90)
-
 # 정효진, Hyojin Jeong
 
 👩‍💻 Frontend Developer
