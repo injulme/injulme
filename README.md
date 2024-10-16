@@ -4,8 +4,6 @@
 <br>
 📧 injulme0309@gmail.com
 <br>
-📱 010-3917-2118
-<br>
 
 ## skills
 
